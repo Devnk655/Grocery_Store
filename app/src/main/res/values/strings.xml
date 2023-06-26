@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Grocery Store</string>
+    <string name="first_slide">Choose Your Perfect Grocery</string>
+    <string name="second_slide">Quality Groceries</string>
+    <string name="third_slide">Easy Tracking Of The Product</string>
+    <string name="description1"> Perfect Place For Groceries.Where User Needs Are Satisfied</string>
+    <string name="description2"> Quality Is Our Main Motto</string>
+    <string name="description3"> Easy Way To Track The Product</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
